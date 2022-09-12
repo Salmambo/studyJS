@@ -74,3 +74,12 @@
 | [1번] | [S06_competitionTests_N3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S06_competitionTests_N3.js) |
 | [2번] | [S06_competitionTests_N3 - 26.line](https://github.com/Salmambo/studyJS/blob/main/S06_competitionTests_N3.js) |
 | [3번] | [S06_competitionTests_N3 - 66.line](https://github.com/Salmambo/studyJS/blob/main/S06_competitionTests_N3.js) |
+
+<br>
+
+ [<U>프로그래머스 1레벨 - 3개</U>]
+| 문제 | 풀이 |
+| ---- | ---- |
+| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
+| [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [S08_Solution_Q3 - 35.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
+| [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [S08_Solution_Q3 - 70.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
