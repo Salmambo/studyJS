@@ -77,9 +77,15 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 3개</U>]
+ [<U>프로그래머스 1레벨 - 9개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
 | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [S08_Solution_Q3 - 35.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [S08_Solution_Q3 - 70.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
+| [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [S09_Solution_Q6 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [S09_Solution_Q6 - 24.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [S09_Solution_Q6 - 38.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [S09_Solution_Q6 - 59.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [S09_Solution_Q6 - 84.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [S09_Solution_Q6 - 102.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
