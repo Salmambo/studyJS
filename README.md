@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 9개</U>]
+ [<U>프로그래머스 1레벨 - 12개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -89,3 +89,6 @@
 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [S09_Solution_Q6 - 59.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [S09_Solution_Q6 - 84.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [S09_Solution_Q6 - 102.line](https://github.com/Salmambo/studyJS/blob/main/S09_Solution_Q6.js) |
+| [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [S10_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
+| [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [S10_Solution_Q3 - 15.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
+| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [S10_Solution_Q3 - 26.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
