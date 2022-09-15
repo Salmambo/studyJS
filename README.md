@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 12개</U>]
+ [<U>프로그래머스 1레벨 - 16개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -92,3 +92,7 @@
 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) | [S10_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) | [S10_Solution_Q3 - 15.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [S10_Solution_Q3 - 26.line](https://github.com/Salmambo/studyJS/blob/main/S10_Solution_Q3.js) |
+| [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [S11_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
+| [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [S11_Solution_Q4 - 22.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
+| [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [S11_Solution_Q4 - 31.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
+| [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [S12_Solution_Q8 - 57.line](https://github.com/Salmambo/studyJava/blob/main/src/study/S12_Solution_Q8.java) |
