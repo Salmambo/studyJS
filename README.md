@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 17개</U>]
+ [<U>프로그래머스 1레벨 - 21개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -97,3 +97,7 @@
 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [S11_Solution_Q4 - 31.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [S12_Solution_Q8 - 57.line](https://github.com/Salmambo/studyJava/blob/main/src/study/S12_Solution_Q8.java) |
 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [S12_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S12_Solution_Q1.js) |
+| [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [S13_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
+| [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [S13_Solution_Q4 - 16.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
+| [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | [S13_Solution_Q4 - 29.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
+| [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [S13_Solution_Q4 - 40.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
