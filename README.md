@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 21개</U>]
+ [<U>프로그래머스 1레벨 - 31개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -101,3 +101,13 @@
 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [S13_Solution_Q4 - 16.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) | [S13_Solution_Q4 - 29.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) | [S13_Solution_Q4 - 40.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
+| [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [S14_Solution_Q10 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | [S14_Solution_Q10 - 23.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [S14_Solution_Q10 - 34.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [S14_Solution_Q10 - 47.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [S14_Solution_Q10 - 70.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947) | [S14_Solution_Q10 - 81.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [S14_Solution_Q10 - 100.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | [S14_Solution_Q10 - 119.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [S14_Solution_Q10 - 131.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [S14_Solution_Q10 - 146.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
