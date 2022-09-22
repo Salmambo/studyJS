@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 31개</U>]
+ [<U>프로그래머스 1레벨 - 34개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -111,3 +111,6 @@
 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | [S14_Solution_Q10 - 119.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | [S14_Solution_Q10 - 131.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [S14_Solution_Q10 - 146.line](https://github.com/Salmambo/studyJS/blob/main/S14_Solution_Q10.js) |
+| [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [S15_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
+| [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [S15_Solution_Q3 - 36.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
+| [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [S15_Solution_Q3 - 54.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
