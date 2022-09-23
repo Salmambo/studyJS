@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 34개</U>]
+ [<U>프로그래머스 1레벨 - 35개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -114,6 +114,7 @@
 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [S15_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [S15_Solution_Q3 - 36.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
 | [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [S15_Solution_Q3 - 54.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
+| [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [S16_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S16_Solution_Q1.js) |
 
 <br>
 
