@@ -115,11 +115,12 @@
 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [S15_Solution_Q3 - 36.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
 | [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [S15_Solution_Q3 - 54.line](https://github.com/Salmambo/studyJS/blob/main/S15_Solution_Q3.js) |
 | [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [S16_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S16_Solution_Q1.js) |
+| [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [S17_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S17_Solution_Q1.js) |
 
 <br>
 
  [<U>리트코드 - 2개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/studyJS/blob/main/S16_leetcode_containsDuplicate.js) |
-| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [S16_leetcode_productExceptSelf](https://github.com/Salmambo/studyJS/blob/main/S16_leetcode_productExceptSelf.js) |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [S16_leetcode_productExceptSelf](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_productExceptSelf.js) |
