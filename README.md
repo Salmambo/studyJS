@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 39개</U>]
+ [<U>프로그래머스 1레벨 - 40개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -120,6 +120,7 @@
 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [S18_Solution_Q3 - 26.line](https://github.com/Salmambo/studyJS/blob/main/S18_Solution_Q3.js) |
 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [S18_Solution_Q3 - 57.line](https://github.com/Salmambo/studyJS/blob/main/S18_Solution_Q3.js) |
 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [S19_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S19_Solution_Q1.js) |
+| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [S20_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S20_Solution_Q1.js) |
 
 <br>
 
