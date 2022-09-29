@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 40개</U>]
+ [<U>프로그래머스 1레벨 - 45개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -95,7 +95,7 @@
 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [S11_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [S11_Solution_Q4 - 22.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [S11_Solution_Q4 - 31.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
-| [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [S12_Solution_Q8 - 57.line](https://github.com/Salmambo/studyJava/blob/main/src/study/S12_Solution_Q8.java) |
+| [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | [S11_Solution_Q4 - 57.line](https://github.com/Salmambo/studyJS/blob/main/S11_Solution_Q4.js) |
 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [S12_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S12_Solution_Q1.js) |
 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [S13_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [S13_Solution_Q4 - 16.line](https://github.com/Salmambo/studyJS/blob/main/S13_Solution_Q4.js) |
@@ -121,6 +121,10 @@
 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [S18_Solution_Q3 - 57.line](https://github.com/Salmambo/studyJS/blob/main/S18_Solution_Q3.js) |
 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [S19_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S19_Solution_Q1.js) |
 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [S20_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S20_Solution_Q1.js) |
+| [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [S21_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
+| [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [S21_Solution_Q4 - 93.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
+| [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [S21_Solution_Q4 - 109.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
+| [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [S21_Solution_Q4 - 125.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
 
 <br>
 
