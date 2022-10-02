@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 46개</U>]
+ [<U>프로그래머스 1레벨 - 47개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -126,10 +126,11 @@
 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [S21_Solution_Q4 - 109.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [S21_Solution_Q4 - 125.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [S22_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S22_Solution_Q1.js) |
+| [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [S23_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S23_Solution_Q1.js) |
 
 <br>
 
- [<U>리트코드 - 8개</U>]
+ [<U>리트코드 - 9개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
@@ -140,3 +141,4 @@
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [S19_leetcode_lengthOfLongestSubstring](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S19_leetcode_lengthOfLongestSubstring.js) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [S19_leetcode_groupAnagrams](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S19_leetcode_groupAnagrams.js) |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [S22_leetcode_countSubstrings](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S22_leetcode_countSubstrings.js) |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [S23_leetcode_lengthOfLIS](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S23_leetcode_lengthOfLIS.js) |
