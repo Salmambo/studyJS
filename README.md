@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 47개</U>]
+ [<U>프로그래머스 1레벨 - 49개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -127,6 +127,8 @@
 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [S21_Solution_Q4 - 125.line](https://github.com/Salmambo/studyJS/blob/main/S21_Solution_Q4.js) |
 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [S22_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S22_Solution_Q1.js) |
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [S23_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S23_Solution_Q1.js) |
+| [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [S24_Solution_Q2 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S24_Solution_Q2.js) |
+| [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [S24_Solution_Q2 - 37.line](https://github.com/Salmambo/studyJS/blob/main/S24_Solution_Q2.js) |
 
 <br>
 
