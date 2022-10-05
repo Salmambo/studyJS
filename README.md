@@ -132,7 +132,7 @@
 
 <br>
 
- [<U>리트코드 - 12개</U>]
+ [<U>리트코드 - 14개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
@@ -147,3 +147,5 @@
 | [139. Word Break](https://leetcode.com/problems/word-break/) | [S24_leetcode_wordBreak](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S24_leetcode_wordBreak.js) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | [S24_leetcode_rob](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S24_leetcode_rob.js) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | [S25_leetcode_cloneGraph](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S25_leetcode_cloneGraph.js) |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | [S26_leetcode_canFinish](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S26_leetcode_canFinish.js) |
+| [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [S26_leetcode_insert](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S26_leetcode_insert.js) |
