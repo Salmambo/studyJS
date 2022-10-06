@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 49개</U>]
+ [<U>프로그래머스 1레벨 - 54개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -129,6 +129,11 @@
 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [S23_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S23_Solution_Q1.js) |
 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [S24_Solution_Q2 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S24_Solution_Q2.js) |
 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [S24_Solution_Q2 - 37.line](https://github.com/Salmambo/studyJS/blob/main/S24_Solution_Q2.js) |
+| [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [S27_Solution_Q5 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
+| [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [S27_Solution_Q5 - 47.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
+| [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [S27_Solution_Q5 - 66.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
+| [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [S27_Solution_Q5 - 78.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
+| [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [S27_Solution_Q5 - 96.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
 
 <br>
 
