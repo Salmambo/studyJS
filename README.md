@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 54개</U>]
+ [<U>프로그래머스 1레벨 - 55개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -134,6 +134,7 @@
 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [S27_Solution_Q5 - 66.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [S27_Solution_Q5 - 78.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [S27_Solution_Q5 - 96.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
+| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [S28_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S28_Solution_Q1.js) |
 
 <br>
 
