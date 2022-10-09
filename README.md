@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 55개</U>]
+ [<U>프로그래머스 1레벨 - 57개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -135,10 +135,12 @@
 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [S27_Solution_Q5 - 78.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [S27_Solution_Q5 - 96.line](https://github.com/Salmambo/studyJS/blob/main/S27_Solution_Q5.js) |
 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [S28_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S28_Solution_Q1.js) |
+| [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [S29_Solution_Q2 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S29_Solution_Q2.js) |
+| [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [S29_Solution_Q2 - 60.line](https://github.com/Salmambo/studyJS/blob/main/S29_Solution_Q2.js) |
 
 <br>
 
- [<U>리트코드 - 14개</U>]
+ [<U>리트코드 - 18개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
@@ -155,3 +157,7 @@
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | [S25_leetcode_cloneGraph](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S25_leetcode_cloneGraph.js) |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | [S26_leetcode_canFinish](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S26_leetcode_canFinish.js) |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [S26_leetcode_insert](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S26_leetcode_insert.js) |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [S29_leetcode_eraseOverlapIntervals](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S29_leetcode_eraseOverlapIntervals.js#L2) |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [S29_leetcode_removeNthFromEnd](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S29_leetcode_removeNthFromEnd.js) |
+| [143. Reorder List](https://leetcode.com/problems/reorder-list/) | [S29_leetcode_reorderList](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S29_leetcode_reorderList.js) |
+| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [S29_leetcode_setZeroes](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S29_leetcode_setZeroes.js) |
