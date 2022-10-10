@@ -77,6 +77,32 @@
 
 <br>
 
+ [<U>프로그래머스 0레벨 - 20개</U>]
+| 문제 | 풀이 |
+| ---- | ---- |
+| [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [S30_Solution_Q20 - 14.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [S30_Solution_Q20 - 25.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [S30_Solution_Q20 - 36.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [S30_Solution_Q20 - 47.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [S30_Solution_Q20 - 58.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [S30_Solution_Q20 - 69.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [S30_Solution_Q20 - 81.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [S30_Solution_Q20 - 93.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [S30_Solution_Q20 - 112.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [S30_Solution_Q20 - 123.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [S30_Solution_Q20 - 134.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [S30_Solution_Q20 - 145.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [S30_Solution_Q20 - 161.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [S30_Solution_Q20 - 174.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [S30_Solution_Q20 - 186.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [S30_Solution_Q20 - 202.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [S30_Solution_Q20 - 213.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [S30_Solution_Q20 - 224.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [S30_Solution_Q20 - 241.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+
+<br>
+
  [<U>프로그래머스 1레벨 - 57개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
