@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 0레벨 - 20개</U>]
+ [<U>프로그래머스 0레벨 - 40개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
@@ -100,6 +100,26 @@
 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [S30_Solution_Q20 - 213.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [S30_Solution_Q20 - 224.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [S30_Solution_Q20 - 241.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
+| [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [S32_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [S32_Solution_Q20 - 15.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [S32_Solution_Q20 - 27.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [S32_Solution_Q20 - 40.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [S32_Solution_Q20 - 61.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [S32_Solution_Q20 - 79.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [S32_Solution_Q20 - 91.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [S32_Solution_Q20 - 103.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [S32_Solution_Q20 - 115.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [S32_Solution_Q20 - 126.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [S32_Solution_Q20 - 139.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [S32_Solution_Q20 - 150.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [S32_Solution_Q20 - 167.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [S32_Solution_Q20 - 181.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [S32_Solution_Q20 - 195.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [S32_Solution_Q20 - 221.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [S32_Solution_Q20 - 273.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [S32_Solution_Q20 - 287.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [S32_Solution_Q20 - 306.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [S32_Solution_Q20 - 327.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
 
 <br>
 
