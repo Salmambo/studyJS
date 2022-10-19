@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 0레벨 - 40개</U>]
+ [<U>프로그래머스 0레벨 - 60개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
@@ -120,6 +120,26 @@
 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [S32_Solution_Q20 - 287.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [S32_Solution_Q20 - 306.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [S32_Solution_Q20 - 327.line](https://github.com/Salmambo/studyJS/blob/main/S32_Solution_Q20.js) |
+| [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [S34_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [S34_Solution_Q20 - 17.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [S34_Solution_Q20 - 31.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [S34_Solution_Q20 - 42.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [S34_Solution_Q20 - 59.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [S34_Solution_Q20 - 71.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [S34_Solution_Q20 - 85.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [S34_Solution_Q20 - 97.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [S34_Solution_Q20 - 112.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [S34_Solution_Q20 - 124.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [S34_Solution_Q20 - 144.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [S34_Solution_Q20 - 172.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [S34_Solution_Q20 - 183.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [S34_Solution_Q20 - 199.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [S34_Solution_Q20 - 231.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [S34_Solution_Q20 - 246.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [S34_Solution_Q20 - 271.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [S34_Solution_Q20 - 287.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [S34_Solution_Q20 - 327.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [S34_Solution_Q20 - 356.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
 
 <br>
 
