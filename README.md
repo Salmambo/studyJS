@@ -186,7 +186,7 @@
 
 <br>
 
- [<U>리트코드 - 22개</U>]
+ [<U>리트코드 - 23개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
@@ -211,3 +211,4 @@
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [S31_leetcode_levelOrder](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S31_leetcode_levelOrder.js) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [S31_leetcode_topKFrequent](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S31_leetcode_topKFrequent.js) |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [S33_leetcode_maxProduct](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S33_leetcode_maxProduct.js) |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [S34_leetcode_findMin](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S34_leetcode_findMin.js) |
