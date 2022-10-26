@@ -206,7 +206,7 @@
 
 <br>
 
- [<U>리트코드 - 25개</U>]
+ [<U>리트코드 - 26개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [S16_leetcode_containsDuplicate](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S16_leetcode_containsDuplicate.js) |
@@ -234,3 +234,4 @@
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [S34_leetcode_findMin](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S34_leetcode_findMin.js) |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | [S35_leetcode_threeSum](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S35_leetcode_threeSum.js) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [S36_leetcode_maxArea](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S36_leetcode_maxArea.js) |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [S37_leetcode_characterReplacement](https://github.com/Salmambo/Leetcode-Algorithm-study/blob/main/Kim%20Jeetaek/S37_leetcode_characterReplacement.js) |
