@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 0레벨 - 60개</U>]
+ [<U>프로그래머스 0레벨 - 80개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
@@ -140,6 +140,26 @@
 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [S34_Solution_Q20 - 287.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [S34_Solution_Q20 - 327.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [S34_Solution_Q20 - 356.line](https://github.com/Salmambo/studyJS/blob/main/S34_Solution_Q20.js) |
+| [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [S38_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [S38_Solution_Q20 - 18.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [S38_Solution_Q20 - 42.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [S38_Solution_Q20 - 57.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [S38_Solution_Q20 - 81.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [S38_Solution_Q20 - 106.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [S38_Solution_Q20 - 131.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [S38_Solution_Q20 - 152.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | [S38_Solution_Q20 - 173.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [S38_Solution_Q20 - 184.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | [S38_Solution_Q20 - 201.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [S38_Solution_Q20 - 215.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [S38_Solution_Q20 - 226.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [S38_Solution_Q20 - 241.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [S38_Solution_Q20 - 252.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | [S38_Solution_Q20 - 263.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [S38_Solution_Q20 - 280.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [S38_Solution_Q20 - 297.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [S38_Solution_Q20 - 352.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [S38_Solution_Q20 - 377.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
 
 <br>
 
