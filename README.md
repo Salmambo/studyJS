@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 0레벨 - 80개</U>]
+ [<U>프로그래머스 0레벨 - 100개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
@@ -160,6 +160,26 @@
 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [S38_Solution_Q20 - 297.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [S38_Solution_Q20 - 352.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [S38_Solution_Q20 - 377.line](https://github.com/Salmambo/studyJS/blob/main/S38_Solution_Q20.js) |
+| [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [S39_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [S39_Solution_Q20 - 18.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [S39_Solution_Q20 - 31.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | [S39_Solution_Q20 - 46.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | [S39_Solution_Q20 - 67.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | [S39_Solution_Q20 - 84.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | [S39_Solution_Q20 - 98.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | [S39_Solution_Q20 - 110.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [S39_Solution_Q20 - 121.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [S39_Solution_Q20 - 139.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [S39_Solution_Q20 - 150.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [S39_Solution_Q20 - 161.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [S39_Solution_Q20 - 172.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [S39_Solution_Q20 - 184.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | [S39_Solution_Q20 - 195.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [S39_Solution_Q20 - 210.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [S39_Solution_Q20 - 233.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [S39_Solution_Q20 - 247.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [S39_Solution_Q20 - 266.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [S39_Solution_Q20 - 279.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
 
 <br>
 
