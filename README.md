@@ -183,7 +183,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 57개</U>]
+ [<U>프로그래머스 1레벨 - 68개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -243,6 +243,17 @@
 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [S28_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S28_Solution_Q1.js) |
 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [S29_Solution_Q2 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S29_Solution_Q2.js) |
 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [S29_Solution_Q2 - 60.line](https://github.com/Salmambo/studyJS/blob/main/S29_Solution_Q2.js) |
+| [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [S40_Solution_Q11 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [S40_Solution_Q11 - 33.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [S40_Solution_Q11 - 52.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [S40_Solution_Q11 - 75.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [S40_Solution_Q11 - 105.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [S40_Solution_Q11 - 127.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [S40_Solution_Q11 - 153.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [S40_Solution_Q11 - 176.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [S40_Solution_Q11 - 197.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [S40_Solution_Q11 - 227.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [S40_Solution_Q11 - 259.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
 
 <br>
 
