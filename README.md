@@ -183,7 +183,7 @@
 
 <br>
 
- [<U>프로그래머스 1레벨 - 68개</U>]
+ [<U>프로그래머스 1레벨 - 69개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [S08_Solution_Q3 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S08_Solution_Q3.js) |
@@ -254,6 +254,7 @@
 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [S40_Solution_Q11 - 197.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [S40_Solution_Q11 - 227.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [S40_Solution_Q11 - 259.line](https://github.com/Salmambo/studyJS/blob/main/S40_Solution_Q11.js) |
+| [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [S41_Solution_Q1 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S41_Solution_Q1.js) |
 
 <br>
 
