@@ -77,7 +77,7 @@
 
 <br>
 
- [<U>프로그래머스 0레벨 - 100개</U>]
+ [<U>프로그래머스 0레벨 - 104개</U>]
 | 문제 | 풀이 |
 | ---- | ---- |
 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [S30_Solution_Q20 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S30_Solution_Q20.js) |
@@ -180,6 +180,10 @@
 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [S39_Solution_Q20 - 247.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [S39_Solution_Q20 - 266.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [S39_Solution_Q20 - 279.line](https://github.com/Salmambo/studyJS/blob/main/S39_Solution_Q20.js) |
+| [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [S42_Solution_Q4 - 3.line](https://github.com/Salmambo/studyJS/blob/main/S42_Solution_Q4.js) |
+| [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830) | [S42_Solution_Q4 - 23.line](https://github.com/Salmambo/studyJS/blob/main/S42_Solution_Q4.js) |
+| [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [S42_Solution_Q4 - 44.line](https://github.com/Salmambo/studyJS/blob/main/S42_Solution_Q4.js) |
+| [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [S42_Solution_Q4 - 64.line](https://github.com/Salmambo/studyJS/blob/main/S42_Solution_Q4.js) |
 
 <br>
 
